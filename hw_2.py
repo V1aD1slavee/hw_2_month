@@ -25,3 +25,4 @@ class Teacher(Person):
 people = Teacher("Галина Ивановна", 74, "Замужем",14)
 people.introduce_myself()
 people.pay()
+print("test")
